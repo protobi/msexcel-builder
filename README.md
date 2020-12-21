@@ -14,7 +14,7 @@ Features:
 
 ## FORK FEATURES
 
-* Support cell hyperlinks
+* Support formula in celss
 
 Set your formula as text value with prefix `formula://`. For example:
 
