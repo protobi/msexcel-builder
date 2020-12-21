@@ -12,6 +12,18 @@ Features:
 * Custom cell border styles and merge cells.
 * Text rotation in cells.
 
+## FORK FEATURES
+
+* Support cell hyperlinks
+
+Set your formula as text value with prefix `formula://`. For example:
+
+```javascript
+
+sheet1.set(1, 1, 'formula://HYPERLINK("https://google.com/", "GOOGLE")');
+
+```
+
 ## Getting Started
 
 Install it in node.js:
