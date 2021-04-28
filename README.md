@@ -320,6 +320,7 @@ The options may contain:
   * `scheme` - (String) font scheme
   * `bold` - (String) if bold: 'true'/'false'
   * `iter` - (String) if italic: 'true'/'false'
+  * `underline` - (String) if need underline: 'true'/'false'
   * `color` - (String) font color as HEX RGB or ARGB value (e.g. `"2266AA"` or `"FF2266AA`"`)
 
 * `fill_style` - (Object) fill style options
